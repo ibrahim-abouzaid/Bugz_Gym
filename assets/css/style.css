@@ -325,6 +325,7 @@ body {
   overflow-x: auto;
   padding-block-end: 30px;
   scroll-snap-type: inline mandatory;
+  cursor: pointer;
 }
 
 .scrollbar-item {
