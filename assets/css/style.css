@@ -603,7 +603,7 @@ body {
 }
 
 .video-card {
-  background-color: var(--light-gray);
+  /* background-color: var(--light-gray); */
   background-size: cover;
   background-position: center;
   height: 500px;
@@ -646,7 +646,16 @@ body {
 }
 
 
+.shorts{
+  position: absolute;
+  left: 20px;
 
+}
+.intro_sound{
+  position: absolute;
+  right: 70px;
+  
+}
 
 
 /*-----------------------------------*\
